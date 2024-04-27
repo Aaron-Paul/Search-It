@@ -11,8 +11,8 @@
 ![youtube](/pictures/youtube.png)
 ![pictures](/pictures/pictures.png)
 ![ai](/pictures/ai.png)
-![twiter1](/pictures/twitter1.png)
-![twiter2](/pictures/twitter2.png)
+![twiter1](/pictures/twitter2.png)
+![twiter2](/pictures/twitter.png)
 
 
 ## Installation 
