@@ -7,11 +7,20 @@
 * similarly pictures can all also be found , a popup with Pinterest result will be displayed
 * and if you want AI results , a popup with perplexity.ai result will be displayed
 
+![wikipedia](/pictures/wikipedia.png)
+![youtube](/pictures/youtube.png)
+![pictures](/pictures/pictures.png)
+![ai](/pictures/ai.png)
+![twiter1](/pictures/twitter1.png)
+![twiter2](/pictures/twitter2.png)
+
+
 ## Installation 
 * clone the repo
 * go to chrome extension page Visit [Chrome Extension Page](chrome://extensions/)!
 * Enable developer mode , click on load unpacked button
 * then upload cloned file 
 * Done! you will be able to use Search-It
-
-![Installation step 1](/pictures/Installation.png)
+  
+![Installation step 1](/pictures/installation2.png)
+![Installation step 2](/pictures/Installation.png)
