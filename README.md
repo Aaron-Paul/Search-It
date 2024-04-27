@@ -17,7 +17,7 @@
 
 ## Installation 
 * clone the repo
-* go to chrome extension page Visit [Chrome Extension Page](chrome://extensions/)!
+* go to chrome extension page (chrome://extensions/)
 * Enable developer mode , click on load unpacked button
 * then upload cloned file 
 * Done! you will be able to use Search-It
