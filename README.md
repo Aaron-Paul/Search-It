@@ -22,5 +22,5 @@
 * then upload cloned file 
 * Done! you will be able to use Search-It
   
-![Installation step 1](/pictures/installation2.png)
+![Installation step 1](/pictures/installarion2.png)
 ![Installation step 2](/pictures/Installation.png)
