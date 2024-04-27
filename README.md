@@ -13,3 +13,5 @@
 * Enable developer mode , click on load unpacked button
 * then upload cloned file 
 * Done! you will be able to use Search-It
+
+![Installation step 1](/pictures/Installation.png)
